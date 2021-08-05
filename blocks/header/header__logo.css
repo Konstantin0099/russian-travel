@@ -1,0 +1,8 @@
+.header__logo {
+    width: 176px;
+    height: 52px;
+    flex-grow: 1;
+    background-image: url(../../image/header/logo.png);
+    background-repeat: no-repeat;
+
+}

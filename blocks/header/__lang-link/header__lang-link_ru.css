@@ -1,0 +1,8 @@
+.header__lang-link_ru {
+    margin: 0 18px 17px 0;
+    width: 30px;
+    height: 29px;
+    background-image: url(../../../image/header/lang-link-ru.png);
+    background-repeat: no-repeat;
+    align-self: flex-end;
+}
