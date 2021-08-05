@@ -1,0 +1,10 @@
+.place__paragraph_text {
+  margin: 0 0 26px 0;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 163%;
+  /* or 29px */
+  color: #ffffff;
+}

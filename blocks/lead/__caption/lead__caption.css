@@ -1,4 +1,5 @@
 .lead__caption {
+    margin: 8px auto 0;
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -10,4 +11,5 @@
   text-transform: uppercase;
 
   color: #ffffff;
+  display: inline-block;
 }

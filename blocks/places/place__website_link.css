@@ -1,0 +1,20 @@
+.place__website_link {
+  margin: 0;
+  grid-area: website;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1.22;
+  color: #ffffff;
+  text-decoration-line: underline;
+}
+.place__website_link_URL {
+  font-size: 12px;
+  line-height: 12px;
+  /* identical to box height, or 100% */
+  letter-spacing: 2px;
+  color: #aaaaaa;
+  text-decoration-line: none;
+  margin: 0 0 12px 0;
+}
