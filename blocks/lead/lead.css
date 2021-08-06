@@ -1,8 +1,7 @@
 .lead{
     margin: 0;
-    padding: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: dashed 1px yellowgreen;
+    padding: 0 calc(((100% - 1024px)*0.285) + 24px);
 }
