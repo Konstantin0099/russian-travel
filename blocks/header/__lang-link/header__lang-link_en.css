@@ -1,8 +1,21 @@
 .header__lang-link_en {
-    margin: 0 0 18px 0;
+    margin: 18px 0 0;
     width: 30px;
     height: 28px;
     background-image: url(../../../image/header/lang-link-en.png);
     background-repeat: no-repeat;
-    align-self: flex-end;
 }
+
+@media screen and (max-width: 752px) {
+    .header__lang-link_en {
+      width: 22px;
+      height: 20px;
+      background-size: contain;
+    }
+  }
+@media screen and (max-width: 608px) {
+    .header__lang-link_en {
+      margin-top: 14px; 
+
+    }
+  }

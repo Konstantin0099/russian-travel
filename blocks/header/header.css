@@ -1,9 +1,32 @@
 .header {
     margin: 28px auto 0;
     padding: 0 48px;
-    /*margin: 0 auto;*/
     display: flex;
     flex-direction: row;
     max-width: 1184px;
-    justify-content: space-between;
 }
+@media screen and (max-width: 1023px) {
+    .header {
+        padding-left: calc((100% - 894px) / 5.375 + 24px); /*плавное измененеие падингов при уменьшении экрана*/
+        padding-right: calc((100% - 894px) / 5.375 + 24px);
+    }
+  }
+  @media screen and (max-width: 894px) {
+    .header {
+      padding-left: 24px; 
+      padding-right: 24px;
+    }
+  }
+  @media screen and (max-width: 752px) {
+    .header {
+        padding: 0 calc((100% - 608px) / 18 + 16px);/*плавное измененеие падингов при уменьшении экрана*/
+    }
+  }
+  @media screen and (max-width: 608px) {
+    .header {
+      padding-left: 16px;
+      padding-right: 16px;
+      margin-top: 16px;
+      
+    }
+  }

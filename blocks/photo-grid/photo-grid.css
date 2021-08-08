@@ -11,30 +11,30 @@
 /* 1279px */
 @media screen and (max-width: 1216px) {
   .photo__grid {
-    grid-template-columns: repeat(3, calc((100% - 28px) / 3));
+    grid-template-columns: repeat(3, calc((100% - 28px) / 3)); /*переход на три колонки*/
     grid-template-rows: repeat(4, 1fr);
     gap: 14px;
   }
 }
 @media screen and (max-width: 1023px) {
   .photo__grid {
-    padding-left: calc((100% - 737px) / 5.3333);
-    padding-right: calc((100% - 737px) / 5.3333);
+    padding-left: calc((100% - 894px) / 5.375 + 24px); /*плавное измененеие падингов при уменьшении экрана*/
+    padding-right: calc((100% - 894px) / 5.375 + 24px);
   }
 }
 @media screen and (max-width: 894px) {
   .photo__grid {
-    padding-left: 24px;
+    padding-left: 24px; 
     padding-right: 24px;
-    margin-top: 88px;
-    grid-template-columns: repeat(2, calc((100% - 16px) / 2));
+    margin-top: 88px; 
+    grid-template-columns: repeat(2, calc((100% - 16px) / 2)); /* переход на две колонки*/
     grid-template-rows: repeat(6, 1fr);
     gap: 16px;
   }
 }
 @media screen and (max-width: 752px) {
   .photo__grid {
-    padding: 0 calc((100% - 320px) / 18);
+    padding: 0 calc((100% - 608px) / 18 + 16px);/*плавное измененеие падингов при уменьшении экрана*/
   }
 }
 @media screen and (max-width: 608px) {

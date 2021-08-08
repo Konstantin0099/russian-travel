@@ -13,3 +13,8 @@
   color: #ffffff;
   display: inline-block;
 }
+@media screen and (max-width: 896px) {
+  .lead__caption {
+    margin-left: 24px;
+  }
+}
