@@ -1,11 +1,9 @@
 .overlay {
-    width: 100%;
-    min-height: 740px;
-    background-color:rgba(42, 44, 47, 0.3);
+  width: 100%;
+  background-color: rgba(42, 44, 47, 0.3);
+  min-height: 62.5vw;
 }
 
 .overlay:hover {
-    width: 100%;
-    min-height: 740px;
-    background-color:rgba(42, 44, 47, 0.8);
+  background-color: rgba(42, 44, 47, 0.8);
 }

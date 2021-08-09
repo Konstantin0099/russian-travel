@@ -1,9 +1,9 @@
 .cover {
     margin: 92px auto 0;
     max-width: 1184px;
-    min-height: 740px;
     display: block;
     background-image: url(../../image/cover/__background.png);
-    background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
   }
 

@@ -1,6 +1,6 @@
 .place__website_link {
   margin: 0;
-  grid-area: website;
+  /* grid-area: website; */
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -17,4 +17,9 @@
   color: #aaaaaa;
   text-decoration-line: none;
   margin: 0 0 12px 0;
+}
+@media screen and (max-width: 900px) {
+  .place__website_link {
+    font-size: 16px;
+  }
 }

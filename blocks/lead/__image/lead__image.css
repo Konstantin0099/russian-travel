@@ -2,3 +2,13 @@
   display: block;
   margin:  0 auto;
 }
+@media all and (max-width: 1080px) {
+  .lead__image {
+    max-width: calc(100% - 96px);
+  }
+}
+@media all and (max-width: 864px) {
+  .lead__image {
+    max-width: 768px;
+  }
+}

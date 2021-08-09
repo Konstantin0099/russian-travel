@@ -8,3 +8,8 @@
   /* or 29px */
   color: #ffffff;
 }
+@media screen and (max-width: 900px) {
+  .place__paragraph_text {
+    font-size: 16px;
+  }
+}
