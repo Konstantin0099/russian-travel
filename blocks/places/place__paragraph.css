@@ -2,17 +2,23 @@
   padding: 0;
   margin: 0;
   grid-area: paragraph;
-  font-family: Inter;
+  /* font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
-  line-height: 163%;
+  line-height: 163%; */
   /* or 29px */
 
-  color: #ffffff;
+  /* color: #ffffff; */
 }
-@media screen and (max-width: 900px) {
+ /* @media screen and (max-width: 900px) {
   .place__paragraph {
     font-size: 16px;
   }
-}
+} */
+@media screen and (max-width: 608px) {
+  .place__paragraph {
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+} 

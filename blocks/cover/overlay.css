@@ -1,9 +1,14 @@
 .overlay {
   width: 100%;
   background-color: rgba(42, 44, 47, 0.3);
-  min-height: 62.5vw;
+  height: 740px;
 }
 
 .overlay:hover {
   background-color: rgba(42, 44, 47, 0.8);
 }
+@media screen and (max-width: 1279px) {
+    .overlay {
+        height: 61vw;
+    }
+  }

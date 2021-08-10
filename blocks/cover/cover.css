@@ -3,7 +3,12 @@
     max-width: 1184px;
     display: block;
     background-image: url(../../image/cover/__background.png);
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
   }
-
+  @media screen and (max-width: 608px) {
+    .cover {
+      margin-top: 66px;
+      
+    }
+  }
