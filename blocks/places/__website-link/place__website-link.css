@@ -1,4 +1,4 @@
-.place__website_link {
+.place__website-link {
   margin: 0;
   /* grid-area: website; */
   font-family: Inter;
@@ -9,15 +9,12 @@
   color: #ffffff;
   text-decoration-line: underline;
 }
-.place__website_link:hover {
+.place__website-link:hover {
   opacity: 0.5;
 }
-
-
-.place__website_link_URL {
+.place__website-link_URL {
   font-size: 12px;
   line-height: 12px;
-  /* identical to box height, or 100% */
   letter-spacing: 2px;
   color: #aaaaaa;
   text-decoration-line: none;

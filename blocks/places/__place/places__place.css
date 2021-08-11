@@ -1,4 +1,4 @@
-.place {
+.places__place{
   display: grid;
   margin: 70px auto 0;
   padding: 0;
@@ -11,19 +11,19 @@
     "img paragraph";
 }
 @media screen and (max-width: 1279px) {
-  .place {
+  .places__place {
     grid-template-columns: 1fr 49%;
     column-gap: 32px;
   }
 }
 @media screen and (max-width: 1023px) {
-  .place {
+  .places__place{
     column-gap: 28px;
     margin-top: 73px;
   }
 }
 @media screen and (max-width: 608px) {
-  .place {
+  .places__place {
     margin-top: 50px;
     grid-template-columns: 1fr;
     grid-template-rows: repeat(2, auto) 1fr auto;
