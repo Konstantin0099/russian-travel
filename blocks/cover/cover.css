@@ -5,12 +5,13 @@
     display: block;
     background-image: url(../../image/cover/__background.png);
     background-size: contain;
+    background-position: center center;
     background-repeat: no-repeat;
     background-color: rgba(42, 44, 47, 0.3);
   }
   @media screen and (max-width: 1279px) {
     .cover {
-      min-height: 61.3vw;
+      min-height: 62.5vw;
     }
   }
   @media screen and (max-width: 608px) {
