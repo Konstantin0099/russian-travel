@@ -51,3 +51,293 @@ http://vodlozero.ru/
 .
 .
 © 2021. Шереметов Константин
+
+
+/* 1. Куршская коса: http://park-kosa.ru */
+/* 2. Кольский: https://yourshot.nationalgeographic.com/photos/?keywords=kolskiy */
+/* 3. Алтай: https://www.facebook.com/vera.bashmakova/posts/10156011613718822 */
+/* 4. Зимний Байкал: https://vk.com/baikalmile */
+/* 5. Карелия: http://vodlozero.ru */
+
+
+/* 1. До Байкала на собаках: https://stampsy.com/na-elektrichkakh-do-baikala */
+
+
+/* 1. Карты: https://yandex.ru/maps */
+
+/* 3. Расписание: https://rasp.yandex.ru */
+
+/* 2. Погода: https://yandex.ru/pogoda */
+
+/* 4. Календарь: https://calendar.yandex.ru */
+
+/* 5. Путешествия: https://travel.yandex.ru */
+
+
+
+
+
+/* 1. Куршская коса: http://park-kosa.ru */
+
+position: absolute;
+width: 198px;
+height: 36px;
+left: 41px;
+top: 124px;
+
+font-family: Suisse Intl;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* or 120% */
+
+color: #000000;
+
+
+
+/* 1. До Байкала на собаках: https://stampsy.com/na-elektrichkakh-do-baikala */
+
+position: absolute;
+width: 247px;
+height: 54px;
+left: 41px;
+top: 454px;
+
+font-family: Suisse Intl;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* or 120% */
+
+color: #000000;
+
+
+
+/* 1. Карты: https://yandex.ru/maps */
+
+position: absolute;
+width: 212px;
+height: 36px;
+left: 41px;
+top: 558px;
+
+font-family: Suisse Intl;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* or 120% */
+
+color: #000000;
+
+
+
+/* 3. Расписание: https://rasp.yandex.ru */
+
+position: absolute;
+width: 244px;
+height: 36px;
+left: 41px;
+top: 662px;
+
+font-family: Suisse Intl;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* or 120% */
+
+color: #000000;
+
+
+
+/* 2. Погода: https://yandex.ru/pogoda */
+
+position: absolute;
+width: 244px;
+height: 36px;
+left: 41px;
+top: 610px;
+
+font-family: Suisse Intl;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* or 120% */
+
+color: #000000;
+
+
+
+/* 4. Календарь: https://calendar.yandex.ru */
+
+position: absolute;
+width: 244px;
+height: 36px;
+left: 41px;
+top: 714px;
+
+font-family: Suisse Intl;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* or 120% */
+
+color: #000000;
+
+
+
+/* 5. Путешествия: https://travel.yandex.ru */
+
+position: absolute;
+width: 244px;
+height: 36px;
+left: 41px;
+top: 766px;
+
+font-family: Suisse Intl;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* or 120% */
+
+color: #000000;
+
+
+
+/* places */
+
+position: absolute;
+width: 198px;
+height: 18px;
+left: 24px;
+top: 90px;
+
+font-family: Suisse Intl;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height, or 120% */
+
+color: #000000;
+
+
+
+/* cover */
+
+position: absolute;
+width: 198px;
+height: 18px;
+left: 24px;
+top: 420px;
+
+font-family: Suisse Intl;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height, or 120% */
+
+color: #000000;
+
+
+
+/* footer */
+
+position: absolute;
+width: 198px;
+height: 18px;
+left: 24px;
+top: 524px;
+
+font-family: Suisse Intl;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height, or 120% */
+
+color: #000000;
+
+
+
+/* 3. Алтай: https://www.facebook.com/vera.bashmakova/posts/10156011613718822 */
+
+position: absolute;
+width: 247px;
+height: 54px;
+left: 41px;
+top: 246px;
+
+font-family: Suisse Intl;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* or 120% */
+
+color: #000000;
+
+
+
+/* 5. Карелия: http://vodlozero.ru */
+
+position: absolute;
+width: 198px;
+height: 36px;
+left: 41px;
+top: 368px;
+
+font-family: Suisse Intl;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* or 120% */
+
+color: #000000;
+
+
+
+/* 2. Кольский: https://yourshot.nationalgeographic.com/photos/?keywords=kolskiy */
+
+position: absolute;
+width: 247px;
+height: 54px;
+left: 41px;
+top: 176px;
+
+font-family: Suisse Intl;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* or 120% */
+
+color: #000000;
+
+
+
+/* 4. Зимний Байкал: https://vk.com/baikalmile */
+
+position: absolute;
+width: 198px;
+height: 36px;
+left: 41px;
+top: 316px;
+
+font-family: Suisse Intl;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* or 120% */
+
+color: #000000;
+

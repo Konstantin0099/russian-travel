@@ -9,6 +9,11 @@
   color: #ffffff;
   text-decoration-line: underline;
 }
+.place__website_link:hover {
+  opacity: 0.5;
+}
+
+
 .place__website_link_URL {
   font-size: 12px;
   line-height: 12px;

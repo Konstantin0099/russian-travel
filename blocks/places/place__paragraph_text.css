@@ -8,14 +8,18 @@
   /* or 29px */
   color: #ffffff;
 }
-@media screen and (max-width: 900px) {
+.place__paragraph_text:last-child {
+  margin-bottom: 0px;
+}
+
+  @media screen and (max-width: 900px) {
   .place__paragraph_text {
-    font-size: 16px;
+    margin-bottom: 25px;
   }
 }
-@media screen and (max-width: 608px) {
+/*@media screen and (max-width: 608px) {
   .place__paragraph_text {
     padding-right: 16px;
     padding-left: 16px;
   }
-} 
+}  */
