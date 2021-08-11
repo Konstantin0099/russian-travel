@@ -5,12 +5,11 @@
 }
 @media screen and (max-width: 752px) {
     .header__logo {
-        max-width: calc((100% - 574px) / 4.23 + 142px);
+        max-width: calc(23.64% - 6px);
     }
   }
   @media screen and (max-width: 608px) {
     .header__logo {
         max-width: 142px;
-        /* height: 42px; */
     }
   }

@@ -1,0 +1,13 @@
+.header__lang-link_ru {
+    width: 30px;
+    height: 29px;
+    background-image: url(../../../../image/header/lang-link-ru.png);
+    background-repeat: no-repeat;
+  }
+  @media screen and (max-width: 752px) {
+    .header__lang-link_ru {
+      width: 22px;
+      height: 20px;
+      background-size: contain;
+    }
+  }

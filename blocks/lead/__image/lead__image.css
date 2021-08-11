@@ -1,6 +1,6 @@
 .lead__image {
   display: block;
-  margin:  0 auto;
+  margin: 0 auto;
 }
 @media all and (max-width: 1080px) {
   .lead__image {
