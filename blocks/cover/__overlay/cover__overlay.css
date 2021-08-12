@@ -1,4 +1,4 @@
-.overlay {
+.cover__overlay {
   display: block;
   max-width: 100%;
   background-color: rgba(42, 44, 47, 0.3);
@@ -6,11 +6,11 @@
   text-decoration: none;
 }
 
-.overlay:hover {
+.cover__overlay:hover {
   background-color: rgba(42, 44, 47, 0.8);
 }
 @media screen and (max-width: 1279px) {
-  .overlay {
+  .cover__overlay {
     min-height: 62.5vw;
   }
 }
