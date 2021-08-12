@@ -4,7 +4,7 @@
     min-height: 740px;
     display: block;
     background-image: url(../../image/cover/__background.png);
-    background-size: contain;
+    background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     background-color: rgba(42, 44, 47, 0.3);
