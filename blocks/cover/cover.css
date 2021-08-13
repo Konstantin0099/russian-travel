@@ -1,22 +1,21 @@
 .cover {
-    margin: 92px auto 0;
-    max-width: 1184px;
-    min-height: 740px;
-    display: block;
-    background-image: url(../../image/cover/__background.png);
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-color: rgba(42, 44, 47, 0.3);
+  margin: 92px auto 0;
+  max-width: 1184px;
+  min-height: 740px;
+  display: block;
+  background-image: url(../../image/cover/__background.png);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-color: rgba(42, 44, 47, 0.3);
+}
+@media screen and (max-width: 1279px) {
+  .cover {
+    min-height: 62.5vw;
   }
-  @media screen and (max-width: 1279px) {
-    .cover {
-      min-height: 62.5vw;
-    }
+}
+@media screen and (max-width: 608px) {
+  .cover {
+    margin-top: 66px;
   }
-  @media screen and (max-width: 608px) {
-    .cover {
-      margin-top: 66px;
-      
-    }
-  }
+}

@@ -1,4 +1,4 @@
-.place{
+.place {
   display: grid;
   margin: 80px auto 0;
   padding: 0;
@@ -17,7 +17,7 @@
   }
 }
 @media screen and (max-width: 1023px) {
-  .place{
+  .place {
     column-gap: 28px;
     margin-top: 73px;
   }
@@ -29,9 +29,9 @@
     grid-template-rows: repeat(2, auto) 1fr auto;
     gap: 12px;
     grid-template-areas:
-    "title "
-    "website"
-    "img"
-    "paragraph"
+      "title "
+      "website"
+      "img"
+      "paragraph";
   }
 }
