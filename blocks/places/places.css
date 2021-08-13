@@ -3,6 +3,7 @@
   margin: 92px auto 0;
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 1023px) {
   .places {
     max-width: calc(85% + 69px);
@@ -13,6 +14,13 @@
     margin-top: 88px;
     padding-right: 24px;
     padding-left: 24px;
+=======
+
+  @media screen and (max-width: 1023px) {
+    .places {
+      max-width: calc(85% + 69px);
+    }
+>>>>>>> e1d3026473a6d334fc55fe693f9bba7e5562b17a
   }
 }
 @media screen and (max-width: 608px) {
