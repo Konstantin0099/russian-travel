@@ -14,4 +14,4 @@
  ## все изображения оптимизировались с помощью [tinypng.com](https://tinypng.com/)
  ## к текстовым элементам применено св-во text-rendering: optimizeLegibility
 
-### проект размещен на [GITHUB](https://konstantin0099.github.io/russian-travel/)
+### проект размещен на [GITHUB](https://konstantin0099.github.io/russian-travel/index.html)
