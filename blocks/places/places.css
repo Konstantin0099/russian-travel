@@ -12,12 +12,15 @@
     margin-top: 88px;
     padding-right: 24px;
     padding-left: 24px;
+  }
+}
+
   @media screen and (max-width: 1023px) {
     .places {
       max-width: calc(85% + 69px);
     }
   }
-}
+
 @media screen and (max-width: 608px) {
   .places {
     margin-top: 64px;

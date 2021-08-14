@@ -1,12 +1,10 @@
 .place__website-link {
-  margin: 12px 0 0;
   font-family: "inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
-  line-height: 1.22;
+  line-height: 22px;
   color: #ffffff;
-  text-decoration-line: underline;
   text-transform: none;
 }
 .place__website-link:hover {
