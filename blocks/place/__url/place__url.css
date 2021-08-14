@@ -13,10 +13,3 @@
     line-height: 12px;
   }
 }
-
-@media screen and (max-width: 608px) {
-  .place__url {
-    padding-right: 16px;
-    padding-left: 16px;
-  }
-}
